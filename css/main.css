@@ -3,6 +3,7 @@ html {
   background-color: #dbd6cf;
   color: #fff;
   font-family: sans-serif;
+  line-height: 1.5;
 }
 
 *, *::before, *::after {
@@ -12,15 +13,14 @@ html {
 body {
   background-color: #79756f;
   border: 3px solid #595652;
-  letter-spacing: .03em;
   padding: .5em;
-  margin: 0em;
+  margin: 0;
   text-align: center;
 }
 
 h1 {
-  font-family: 'Bevan', serif;
-  margin: 0.3em;
+  font-family: Bevan, serif;
+  margin: .3em;
 }
 
 .planets {
